@@ -1,0 +1,15 @@
+{
+    "name": "eithan/magpantay-renz-john",
+    "autoload": {
+        "psr-4": {
+            "Eithan\\MagpantayRenzJohn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ethan",
+            "email": "renzjohn.magpantay@gmail.com"
+        }
+    ],
+    "require": {}
+}
